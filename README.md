@@ -1,5 +1,2 @@
 - Hey there, I'm Avi!
-- I’m interested in Contemporary AI, Digital Ethics, Web Automation, Ethical Hacking.
-- Proficient in Python, Dart for iOS, Unity Design, VB6, C++, and Video Creation via Resolve 17 and Filmora 9.
-- Currently learning Machine Learning, Web and Graphic Design.
-- You can reach me at avis2912@gmail.com!
+
